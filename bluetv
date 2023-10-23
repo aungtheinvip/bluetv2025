@@ -45,7 +45,6 @@
 "uwebtime":"8",
 "swebtime":"9",
 "movie":"vip",
-"hdwatch":"free",
 "vipwatch":"vip",
 "vipdow":"free",
 "vpn":"off",
@@ -73,4 +72,6 @@ contact admin -+959758657395",
 "cmmailurl":"http://channelmyanmar.org",
 "csurl":"https://channelmyanmar.org/tvshows/page/","cspage":"125",
 "csurl2":"https://raw.githubusercontent.com/htet12098/cmseredata/main/","cs2page":"3",
-"cmlive":"https://raw.githubusercontent.com/htet12098/vipjap/main/livetv"}
+"cmlive":"https://raw.githubusercontent.com/htet12098/vipjap/main/livetv",
+"banadslink":"https://play.google.com/store/apps/details?id=com.bluemini.hzt",
+"banadsimg":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-26-01.03.59.jpg"}
